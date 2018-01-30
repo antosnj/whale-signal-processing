@@ -1,0 +1,2 @@
+# whale-signal-processing
+The project consists of the processing and analysis of sound signals taken from real whales as a result of whale vocalization. It proposes a method to 1) Process samples from the input sound signal to calculate and store various specific, strategical parameters and 2) Identify each type of whale species by analyzing such parameters and comparing them to empirical data as a result of real experiments. 
